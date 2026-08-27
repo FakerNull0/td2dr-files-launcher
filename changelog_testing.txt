@@ -1,3 +1,0 @@
-\\version /110~ (encore)
--reskin maps
--a bit updated ui (unfinished)
